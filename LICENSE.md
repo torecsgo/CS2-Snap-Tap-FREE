@@ -6,7 +6,7 @@
 
 ## 1. Grant of License
 
-Subject to the terms and conditions of this Agreement, [Your Name or Company] grants you a non-exclusive, non-transferable, and limited license to use the software ("Software") for commercial purposes.
+Subject to the terms and conditions of this Agreement, Marcos Muñoz grants you a non-exclusive, non-transferable, and limited license to use the software ("Software") for commercial purposes.
 
 ## 2. Restrictions
 
@@ -23,7 +23,7 @@ The license fee for the Software is 50€. Payment terms and conditions will be 
 
 ## 4. Term and Termination
 
-This License is effective upon your acceptance and will continue until terminated by either party. [Your Name or Company] may terminate this License immediately if you breach any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+This License is effective upon your acceptance and will continue until terminated by either party. Marcos Muñoz may terminate this License immediately if you breach any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
 
 ## 5. Ownership
 
